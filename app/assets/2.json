@@ -1,0 +1,19 @@
+{
+  "name": "Apollo",
+  "symbol": "",
+  "image": "2.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "2.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "7GcjYWzPtcuQ2zoewbEadvgLoT8Z8Ef15xM635w7U5GD",
+        "share": 100
+      }
+    ]
+  }
+}

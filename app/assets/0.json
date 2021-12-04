@@ -1,0 +1,19 @@
+{
+  "name": "Mr. Robot",
+  "symbol": "",
+  "image": "0.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "0.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "7GcjYWzPtcuQ2zoewbEadvgLoT8Z8Ef15xM635w7U5GD",
+        "share": 100
+      }
+    ]
+  }
+}
